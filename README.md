@@ -86,4 +86,4 @@ Pablo
 
 ---
 
-Este proyecto es solo para fines educativos y de demostración.
+Este proyecto pertenece al trabajo de clase de la semana 8.
